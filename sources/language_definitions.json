@@ -776,6 +776,11 @@
 		"repo": "https://github.com/tree-sitter-grammars/tree-sitter-xml",
 		"rev": "5000ae8f22d11fbe93939b05c1e37cf21117162d"
 	},
+	"yaml": {
+		"repo": "https://github.com/tree-sitter-grammars/tree-sitter-yaml",
+		"rev": "4463985dfccc640f3d6991e3396a2047610cf5f8",
+		"branch": "master"
+	},
 	"yuck": {
 		"repo": "https://github.com/tree-sitter-grammars/tree-sitter-yuck",
 		"rev": "e877f6ade4b77d5ef8787075141053631ba12318"

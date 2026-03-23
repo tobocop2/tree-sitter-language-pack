@@ -190,6 +190,7 @@ all = [
     "lang-wgsl",
     "lang-xcompose",
     "lang-xml",
+    "lang-yaml",
     "lang-yuck",
     "lang-zig",
 ]
@@ -486,6 +487,7 @@ lang-wat = []
 lang-wgsl = []
 lang-xcompose = []
 lang-xml = []
+lang-yaml = []
 lang-yuck = []
 lang-zig = []
 
